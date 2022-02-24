@@ -1,3 +1,5 @@
+# Music player app created for the course "The creative React and Redux course" from Dev Ed. https://developedbyed.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
